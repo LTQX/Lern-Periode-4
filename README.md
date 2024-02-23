@@ -3,13 +3,13 @@
 
 ## Grob-Planung
 
-1. Mit den Noten bin ich nicht wirklich zufrieden. Ich war im Modul M431 besonderst gut (5.5) und im Modul M162 war ich sehr schlecht (3.5). Ich habe das Modul M162 ein bisschen auf die leichte Schulter genommen. Ich hatte am Schluss einen Durchschnitt von 4.5, mein Ziel war ein 5.5.
-   
-3. Die LP-3 konnte ich nicht auf Github dokumentieren, da ich nicht wusste was ich genau machen musste. Ich habe während der LP-3 an meinem Programmierprojekt gearbeitet. Ich habe einen Temperatur Konvertor gemacht (auf englisch). Ich brauchte viel Zeit und habe viele Tutorials auf youtube geschaut und hilfe bei Chat-GPT gesucht. Am Schluss hat es noch funktioniert.
-   
-5. Ich möchte mich über Dicord.net (bot) informieren und es auch benutzen. Ich habe vor einiger Zeit auf Youtube ein Video zu dem Discord bot gesehen und es hat mich überzeugt. Ich möchte das gerne machen.
-   
-7. Ein geeignetes Projekt für LP-4 wäre eine SQL-Code. Ich interessiere mich sehr für SQL da es sehr spannend und interessant für mich ist. Ich habe mich entschieden, ein Projekt mit SQL zu machen.
+Mit den Noten bin ich nicht wirklich zufrieden. Ich habe im Modul M431 besonders gut abgeschnitten (Note 5.5), während ich im Modul M162 sehr schlecht war (Note 3.5). Ich habe das Modul M162 ein wenig auf die leichte Schulter genommen. Am Ende ergab sich ein Durchschnitt von 4.5, obwohl mein Ziel eine 5.5 war.
+
+Die LP-3 konnte ich nicht auf GitHub dokumentieren, da ich nicht genau wusste, was ich tun sollte. Während der LP-3 habe ich intensiv an meinem Programmierprojekt gearbeitet - einen Temperaturkonverter auf Englisch. Es hat viel Zeit gekostet, und ich habe zahlreiche Tutorials auf YouTube angesehen sowie Hilfe bei Chat-GPT gesucht. Letztendlich hat es jedoch funktioniert.
+
+Ich möchte mich über Discord.net (Bot) informieren und es auch nutzen. Vor einiger Zeit habe ich auf YouTube ein Video zu diesem Discord-Bot gesehen, das mich überzeugt hat. Ich würde das gerne ausprobieren.
+
+Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr für SQL, da es für mich äußerst faszinierend und interessant ist. Daher habe ich mich entschieden, ein Projekt mit SQL zu realisieren.
 
 ## 23.2.2024
 
