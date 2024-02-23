@@ -13,7 +13,7 @@
 
 ## 23.2.2024
 
-✍️ Heute habe ich intensiv an meinem Temperaturumrechner-Projekt gearbeitet. Nach einer gründlichen Überarbeitung des Codes habe ich eine neue Lernperiode auf GitHub erstellt, um meine Fortschritte zu dokumentieren. Durch das Studium von verschiedenen Dokumentationen und YouTube-Videos konnte ich mein Verständnis vertiefen und wichtige Konzepte implementieren. Interessanterweise habe ich bewusst eine Dokumentation und ein Video als Arbeitspaket für die kommende Woche verschoben, um mich zunächst auf die bereits erworbenen Informationen zu konzentrieren. Mit fokussierter Arbeit bin ich bereits weit gekommen und freue mich auf die weiteren Entwicklungen in meinem Temperaturumrechner-Projekt. Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich intensiv an meinem Temperaturumrechner-Projekt gearbeitet. Nach einer gründlichen Überarbeitung des Codes habe ich eine neue Lernperiode auf GitHub erstellt, um meine Fortschritte zu dokumentieren. Durch das Studium von verschiedenen Dokumentationen und YouTube-Videos konnte ich mein Verständnis vertiefen und wichtige Konzepte implementieren. Interessanterweise habe ich bewusst eine Dokumentation und ein Video als Arbeitspaket für die kommende Woche verschoben, um mich zunächst auf die bereits erworbenen Informationen zu konzentrieren. Mit fokussierter Arbeit bin ich bereits weit gekommen und freue mich auf die weiteren Entwicklungen in meinem Temperaturumrechner-Projekt. (88 Wörter)
 
 ## 01.3.2024
 
