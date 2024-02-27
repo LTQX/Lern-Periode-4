@@ -1,4 +1,5 @@
 # Lern-Periode-4
+
 23.2 bis 5.4.2024
 
 ## Grob-Planung
@@ -24,9 +25,10 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |     |     |     |     |
-| ... |     |     |     |     |
-| 4   |     |     |     |     |
+| 1   | Discord.net-Bibliothek ist installiert. | Bot wird gestartet. | Bot ist online und reagiert auf Befehle. |     |
+| 2   | Grundlegende Befehle sind implementiert. | Benutzer gibt !help ein. | Bot gibt Hilfeinformationen aus. |     |
+| 3   | Bot hat Admin-Berechtigungen. | Admin-Benutzer gibt !kick @Benutzer ein. | Der erwähnte Benutzer wird aus dem Server gekickt. |     |
+| 4   | Bot reagiert auf spezifisches Event. | Ein neuer Benutzer tritt dem Server bei. | Bot sendet eine Willkommensnachricht. |     |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
