@@ -25,15 +25,22 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   | Discord.net-Bibliothek ist installiert. | Bot wird gestartet. | Bot ist online und reagiert auf Befehle. |     |
-| 2   | Grundlegende Befehle sind implementiert. | Benutzer gibt !help ein. | Bot gibt Hilfeinformationen aus. |     |
-| 3   | Bot hat Admin-Berechtigungen. | Admin-Benutzer gibt !kick @Benutzer ein. | Der erwähnte Benutzer wird aus dem Server gekickt. |     |
-| 4   | Bot reagiert auf spezifisches Event. | Ein neuer Benutzer tritt dem Server bei. | Bot sendet eine Willkommensnachricht. |     |
+| 1   | Discord.net-Bibliothek ist installiert. | Bot wird gestartet. | Bot ist online und reagiert auf Befehle. | Positiv    |
+| 2   | Grundlegende Befehle sind implementiert. | Benutzer gibt !help ein. | Bot gibt Hilfeinformationen aus. | Positiv    |
+| 3   | Bot hat Admin-Berechtigungen. | Admin-Benutzer gibt !kick @Benutzer ein. | Der erwähnte Benutzer wird aus dem Server gekickt. | Positiv    |
+| 4   | Bot reagiert auf spezifisches Event. | Ein neuer Benutzer tritt dem Server bei. | Bot sendet eine Willkommensnachricht. | Positiv     |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Im Verlauf des heutigen Tages habe ich mich intensiv den verschiedenen Arbeitspaketen gewidmet und mit hoher Konzentration sämtliche Aufgaben erfolgreich abgeschlossen. Der Großteil meines Arbeitstags verlief reibungslos, jedoch stellte sich bei einer spezifischen Aufgabe eine Herausforderung dar. In diesem Moment griff ich auf ChatGPT zurück, um wirksame Lösungsansätze zu finden. Obwohl die künstliche Intelligenz mir bei der Überwindung der Probleme half, erfuhr ich auch, dass Technologien nicht fehlerfrei sind, wie der Lade-Fehler zeigte. Dies unterstreicht die Bedeutung von kritischer Prüfung, selbst bei der Nutzung fortschrittlicher Hilfsmittel.(86 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
-## Reflexion
+## 08.3.2024
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+- [ ] M164 SQL, mit dem Code weiter machen und es abschliessen.
+- [ ] Mit Discord.net sich besser verstehen (Profi werden)
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |  |  |  |     |
+| 2   |  |  |  |     |
+| 3   |  |  |  |     |
+| 4   |  |  |  |     |
