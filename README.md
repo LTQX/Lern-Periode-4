@@ -18,20 +18,19 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 
 ## 01.3.2024
 
-- [ ] M164 SQL Code anfangen (Heute 23.2.2024 Logisches Datenmodell abgegeben)
-- [ ] Dokumentation zu Discord.net durchlesen und es auch umsetzten. (Link: https://github.com/LTQX/Lern-Periode-4)
-- [ ] Mithilfe von diesem Youtube Video werde ich es besser umsetzten können. (Link: https://www.youtube.com/watch?v=0Ar4xEWXqI4)
-- [ ] Discord.net bot abschliessen und ein Testfall machen.
+- [x] M164 SQL Code anfangen (Heute 23.2.2024 Logisches Datenmodell abgegeben)
+- [x] Dokumentation zu Discord.net durchlesen und es auch umsetzten. (Link: https://github.com/LTQX/Lern-Periode-4)
+- [x] Mithilfe von diesem Youtube Video werde ich es besser umsetzten können. (Link: https://www.youtube.com/watch?v=0Ar4xEWXqI4)
+- [x] Discord.net bot abschliessen und ein Testfall machen.
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   | Discord.net-Bibliothek ist installiert. | Bot wird gestartet. | Bot ist online und reagiert auf Befehle. | Positiv    |
-| 2   | Grundlegende Befehle sind implementiert. | Benutzer gibt !help ein. | Bot gibt Hilfeinformationen aus. | Positiv    |
-| 3   | Bot hat Admin-Berechtigungen. | Admin-Benutzer gibt !kick @Benutzer ein. | Der erwähnte Benutzer wird aus dem Server gekickt. | Positiv    |
-| 4   | Bot reagiert auf spezifisches Event. | Ein neuer Benutzer tritt dem Server bei. | Bot sendet eine Willkommensnachricht. | Positiv     |
+| 1   | Discord.net-Bibliothek ist installiert. | Bot wird gestartet. | Bot ist online und reagiert auf Befehle. | Positiv |
+| 2   | Grundlegende Befehle sind implementiert. | Benutzer gibt !help ein. | Bot gibt Hilfeinformationen aus. | Positiv |
+| 3   | Bot hat Admin-Berechtigungen. | Admin-Benutzer gibt !kick @Benutzer ein. | Der erwähnte Benutzer wird aus dem Server gekickt. | Positiv |
+| 4   | Bot reagiert auf spezifisches Event. | Ein neuer Benutzer tritt dem Server bei. | Bot sendet eine Willkommensnachricht. | Positiv |
 
 ✍️ Im Verlauf des heutigen Tages habe ich mich intensiv den verschiedenen Arbeitspaketen gewidmet und mit hoher Konzentration sämtliche Aufgaben erfolgreich abgeschlossen. Der Großteil meines Arbeitstags verlief reibungslos, jedoch stellte sich bei einer spezifischen Aufgabe eine Herausforderung dar. In diesem Moment griff ich auf ChatGPT zurück, um wirksame Lösungsansätze zu finden. Obwohl die künstliche Intelligenz mir bei der Überwindung der Probleme half, erfuhr ich auch, dass Technologien nicht fehlerfrei sind, wie der Lade-Fehler zeigte. Dies unterstreicht die Bedeutung von kritischer Prüfung, selbst bei der Nutzung fortschrittlicher Hilfsmittel.(86 Wörter)
-
 
 ## 08.3.2024
 
@@ -40,7 +39,21 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |  |  |  |     |
-| 2   |  |  |  |     |
-| 3   |  |  |  |     |
-| 4   |  |  |  |     |
+| 1   |     |     |     |     |
+| 2   |     |     |     |     |
+| 3   |     |     |     |     |
+| 4   |     |     |     |     |
+
+✍️ Heute habe ich mich eingehend mit meinem SQL-Code beschäftigt, wobei ich jedoch nicht alle geplanten Aufgaben abschließen konnte. Es bleibt noch einiges zu tun, und ich plane, diese Arbeiten bis nächste Woche abzuschließen, speziell bis zum kommenden Freitag. Trotzdem konnte ich heute äußerst konzentriert arbeiten und flexibel auf die Anforderungen reagieren. Diese intensive Arbeitsphase hat mir ermöglicht, bedeutende Fortschritte zu erzielen, und ich bin zuversichtlich, dass ich meine Ziele rechtzeitig erreichen werde. (72 Wörter)
+
+## 15.3.2024
+
+- [ ] M164 SQL, mit dem Code weiter machen und es abschliessen.
+- [ ] Mit Discord.net sich besser verstehen (Profi werden)
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+| 2   |     |     |     |     |
+| 3   |     |     |     |     |
+| 4   |     |     |     |     |
