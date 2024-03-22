@@ -62,7 +62,21 @@ Ich habe nichts gemacht, da ich fest davon überzeugt war, dass der Unterricht a
 
 ## 22.3.2024
 
-- [ ] M164 SQL, mit dem Code weiter machen und es abschliessen.
+- [x] M164 SQL, mit dem Code weiter machen und es abschliessen.
+- [ ] Mit Discord.net sich besser verstehen (Profi werden)
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+| 2   |     |     |     |     |
+| 3   |     |     |     |     |
+| 4   |     |     |     |     |
+
+Heute habe ich erfolgreich das M164 fertiggestellt, sprich den SQL-Code komplett abgeschlossen. Doch ich beabsichtige, nächste Woche eine gründliche Kontrolle durchzuführen und bei Bedarf Verbesserungen vorzunehmen. Insgesamt war meine Leistung heute sehr zufriedenstellend, und ich habe äußerst fokussiert gearbeitet. (39 Wörter)
+
+## 29.3.2024
+
+- [ ] M164 SQL, den Code auf Fehler kontrollieren und es von anderen anschauen lassen.
 - [ ] Mit Discord.net sich besser verstehen (Profi werden)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
