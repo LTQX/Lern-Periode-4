@@ -34,8 +34,8 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 
 ## 08.3.2024
 
-- [ ] M164 SQL, mit dem Code weiter machen und es abschliessen.
-- [ ] Mit Discord.net sich besser verstehen (Profi werden)
+- [x] M164 SQL, mit dem Code weiter machen und es abschliessen.
+- [x] Mit Discord.net sich besser verstehen (Profi werden)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
@@ -47,6 +47,20 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 ✍️ Heute habe ich mich eingehend mit meinem SQL-Code beschäftigt, wobei ich jedoch nicht alle geplanten Aufgaben abschließen konnte. Es bleibt noch einiges zu tun, und ich plane, diese Arbeiten bis nächste Woche abzuschließen, speziell bis zum kommenden Freitag. Trotzdem konnte ich heute äußerst konzentriert arbeiten und flexibel auf die Anforderungen reagieren. Diese intensive Arbeitsphase hat mir ermöglicht, bedeutende Fortschritte zu erzielen, und ich bin zuversichtlich, dass ich meine Ziele rechtzeitig erreichen werde. (72 Wörter)
 
 ## 15.3.2024
+
+- [ ] M164 SQL, mit dem Code weiter machen und es abschliessen.
+- [ ] Mit Discord.net sich besser verstehen (Profi werden)
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   |     |     |     |     |
+| 2   |     |     |     |     |
+| 3   |     |     |     |     |
+| 4   |     |     |     |     |
+
+Ich habe nichts gemacht, da ich dachte, das der Unterricht ausgefallen ist.
+
+## 22.3.2024
 
 - [ ] M164 SQL, mit dem Code weiter machen und es abschliessen.
 - [ ] Mit Discord.net sich besser verstehen (Profi werden)
