@@ -58,7 +58,7 @@ Ein passendes Projekt für die LP-4 wäre SQL-Code. Ich interessiere mich sehr f
 | 3   |     |     |     |     |
 | 4   |     |     |     |     |
 
-Ich habe nichts gemacht, da ich dachte, das der Unterricht ausgefallen ist.
+Ich habe nichts gemacht, da ich fest davon überzeugt war, dass der Unterricht ausgefallen ist, aufgrund der Information, die ich erhalten hatte, was mich dazu veranlasste, andere Aktivitäten zu priorisieren. (30 Wörter)
 
 ## 22.3.2024
 
