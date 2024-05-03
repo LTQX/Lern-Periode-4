@@ -85,3 +85,8 @@ Heute habe ich erfolgreich das M164 fertiggestellt, sprich den SQL-Code komplett
 | 2   |     |     |     |     |
 | 3   |     |     |     |     |
 | 4   |     |     |     |     |
+
+
+## Schlussreflexion
+
+In dieser Lernphase habe ich mich wirklich angestrengt und gut durchgehalten. Leider bin ich zwei Mal nicht erschienen, was ich bedauere. Trotzdem bin ich gut vorangekommen und habe meinen Zeitplan gut im Griff gehabt. Ich habe mich vor allem viel mit SQL beschäftigt und habe mein Modul bereits abgeschlossen. Jetzt warte ich gespannt auf die Bewertung. Ich finde, ich habe gute Arbeit geleistet, auch wenn es viel Zeit in Anspruch genommen hat. Für die Zukunft plane ich, mehr KI in meine Arbeit einzubeziehen, da es mir bereits beim Debuggen in SQL geholfen hat und ich denke, dass es mir auch weiterhin Zeit sparen wird. Ein Bereich, den ich verbessern möchte, ist meine Anwesenheit und die Zeit, die ich GitHub widme. Insgesamt bin ich jedoch zufrieden mit dem, was ich in dieser Lernphase erreicht habe. (134 Wörter)
